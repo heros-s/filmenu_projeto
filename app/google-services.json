@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087414152246",
+    "project_id": "filmenu-projeto",
+    "storage_bucket": "filmenu-projeto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087414152246:android:f1f7b0c32de61d339c3c97",
+        "android_client_info": {
+          "package_name": "com.example.filme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_d0cyeDKygj_Br8K9ZUSLA7wqdMnN9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087414152246:android:04772f0ac0f1e1cc9c3c97",
+        "android_client_info": {
+          "package_name": "com.example.filmenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_d0cyeDKygj_Br8K9ZUSLA7wqdMnN9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
